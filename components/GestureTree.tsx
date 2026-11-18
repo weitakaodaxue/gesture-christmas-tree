@@ -1110,9 +1110,6 @@ const GestureTree: React.FC = () => {
         <div className="md:hidden absolute bottom-3 left-1/2 -translate-x-1/2 px-3 py-1.5 rounded-full bg-black/55 backdrop-blur border border-white/10 text-[10px] text-gray-300 tracking-wide whitespace-nowrap">
           握拳成树 · 张开散开 · ☝️换色 ✌️下雪 🤟烟花
         </div>
-        <div className="absolute bottom-1 left-2 text-[9px] text-white/25 pointer-events-none select-none">
-          本页会记录访问时间与大致地区，仅用于统计
-        </div>
         <div className="flex justify-between items-start w-full">
             <div className="hidden md:block bg-black/60 backdrop-blur-md p-4 rounded-xl border border-white/10 shadow-xl">
                 <h1 className="text-xl sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-yellow-200 via-yellow-400 to-yellow-600">
