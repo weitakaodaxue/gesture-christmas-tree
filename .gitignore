@@ -27,3 +27,6 @@ dist-ssr
 *.bak
 *.bat
 使用说明.txt
+
+access.log
+.stats-token
